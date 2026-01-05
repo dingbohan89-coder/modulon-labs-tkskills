@@ -223,4 +223,4 @@ done
 
 ## Related Skills
 
-For Xiaohongshu scraping, see: `../xiaohongshu-skill/SKILL.md`
+（本仓库仅包含 TikTok Skill）
